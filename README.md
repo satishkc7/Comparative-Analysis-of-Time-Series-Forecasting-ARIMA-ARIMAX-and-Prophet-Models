@@ -6,6 +6,6 @@ Project Overview:
 
 Key Features:
 Historical Data: Gold price data (GC=F) and Bitcoin price data (BTC-USD) from Yahoo Finance.
-Time Series Models: ARIMA, ARIMAX (with Bitcoin), and Prophet for forecasting.
+Time Series Models: SARIMA, SARIMAX (with Bitcoin), and Prophet for forecasting.
 Evaluation Metrics: RMSE and MAPE to assess model performance.
 Insights: Understanding the discrepancies between RMSE and MAPE and how they impact model evaluation.
